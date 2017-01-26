@@ -1,0 +1,9 @@
+hypertools
+matplotlib
+seaborn
+statsmodels
+pandas
+numpy
+scipy
+scikit-learn
+pyDOE
