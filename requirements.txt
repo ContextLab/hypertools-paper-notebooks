@@ -7,4 +7,3 @@ numpy
 scipy
 scikit-learn
 pyDOE
-python3-tk
